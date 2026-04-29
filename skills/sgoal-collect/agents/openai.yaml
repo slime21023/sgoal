@@ -1,0 +1,4 @@
+interface:
+  display_name: "SGoal Collect"
+  short_description: "Define project goals as .sgoal/GOAL.md"
+  default_prompt: "Use $sgoal-collect to clarify this project and create .sgoal/GOAL.md."

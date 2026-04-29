@@ -1,0 +1,4 @@
+interface:
+  display_name: "SGoal Organise"
+  short_description: "Map modules and boundaries in .sgoal/MODULE.md"
+  default_prompt: "Use $sgoal-organise to map this project into modules and create .sgoal/MODULE.md."

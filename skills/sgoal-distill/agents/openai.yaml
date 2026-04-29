@@ -1,0 +1,4 @@
+interface:
+  display_name: "SGoal Distill"
+  short_description: "Break modules into features in .sgoal/FEATURE.md"
+  default_prompt: "Use $sgoal-distill to break modules into features and create .sgoal/FEATURE.md."
