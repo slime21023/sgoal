@@ -1,4 +1,0 @@
-interface:
-  display_name: "SGoal Action"
-  short_description: "Prioritize feature delivery in .sgoal/ACTION.md"
-  default_prompt: "Use $sgoal-action to order feature development and create .sgoal/ACTION.md."

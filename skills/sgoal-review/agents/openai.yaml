@@ -1,0 +1,4 @@
+interface:
+  display_name: "SGoal Review"
+  short_description: "審查規格就緒度並產出 REVIEW.md"
+  default_prompt: "Use $sgoal-review to check .sgoal/SPEC.md and create .sgoal/REVIEW.md."

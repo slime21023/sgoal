@@ -1,0 +1,4 @@
+interface:
+  display_name: "SGoal Discover"
+  short_description: "收斂早期需求並產出 INTAKE.md"
+  default_prompt: "Use $sgoal-discover to clarify this project and create .sgoal/INTAKE.md."

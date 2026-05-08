@@ -1,0 +1,4 @@
+interface:
+  display_name: "SGoal Specify"
+  short_description: "建立輕量規格並產出 SPEC.md"
+  default_prompt: "Use $sgoal-specify to turn .sgoal/INTAKE.md into a lightweight .sgoal/SPEC.md."
